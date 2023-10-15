@@ -2,9 +2,8 @@
 
 import os
 
-#from flask import Flask, request, current_app, g, make_response
+from flask import Flask, request, current_app, g, make_response
 
-from flask import Flask
 
 app = Flask(__name__)
 
